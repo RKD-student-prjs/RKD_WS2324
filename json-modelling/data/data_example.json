@@ -1,0 +1,48 @@
+[
+    {
+        "themengebiet": "Ingenieurwissenschaften", 
+        "fächer": [
+            {
+                "fach": "Software Entwicklung",
+                "professoren": [
+                    {
+                        "name": "w3school",
+                        "example": "example"
+                    }
+                ]
+            },
+            {
+                "fach": "Mathe",
+                "professoren": [
+                    {
+                        "name": "w3school",
+                        "example": "example"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "themengebiet": "Naturwissenschaften", 
+        "fächer": [
+            {
+                "fach": "Chemie",
+                "professoren": [
+                    {
+                        "name": "w3school",
+                        "example": "example"
+                    }
+                ]
+            },
+            {
+                "fach": "Biologie",
+                "professoren": [
+                    {
+                        "name": "w3school",
+                        "example": "example"
+                    }
+                ]
+            }
+        ]
+    }
+]

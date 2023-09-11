@@ -1,0 +1,48 @@
+[   // Erste Ebene sollen die Themengebiete sein
+    {
+        "themengebiet": "Ingenieurwissenschaften", 
+        "fächer": [ //Zweite Ebene sollen die Fächer der Themengebiete werden
+            {
+                "fach": "Software Entwicklung",
+                "professoren": [ //Dritte Ebene sind die zugehörigen Professoren zu den Fächern
+                    {
+                        "name": "w3school",
+                        "example": "example" // Hier können noch weitere sinnvolle Felder hinzugefügt werden bsp: Beschreibung falls machbar oder ähnliches
+                    }
+                ]
+            },
+            {
+                "fach": "Mathe",
+                "professoren": [ //Dritte Ebene sind die zugehörigen Professoren zu den Fächern
+                    {
+                        "name": "w3school",
+                        "example": "example" // Hier können noch weitere sinnvolle Felder hinzugefügt werden bsp: Beschreibung falls machbar oder ähnliches
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "themengebiet": "Naturwissenschaften", 
+        "fächer": [
+            {
+                "fach": "Chemie",
+                "professoren": [
+                    {
+                        "name": "w3school",
+                        "example": "example"
+                    }
+                ]
+            },
+            {
+                "fach": "Biologie",
+                "professoren": [
+                    {
+                        "name": "w3school",
+                        "example": "example"
+                    }
+                ]
+            }
+        ]
+    }
+]
